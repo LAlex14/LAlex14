@@ -41,7 +41,23 @@ Currently at [BinarCode](https://binarcode.com) in Cluj-Napoca, Romania — lead
 
 ---
 
-### Activity
+### GitHub Stats
+
+<p>
+  <img src="https://github.com/LAlex14/LAlex14/blob/output/profile-summary-card-output/default/0-profile-details.svg?raw=true" width="100%" alt="Profile Details" />
+</p>
+<p>
+  <img src="https://github.com/LAlex14/LAlex14/blob/output/profile-summary-card-output/default/1-repos-per-language.svg?raw=true" width="49%" alt="Repos per Language" />
+  <img src="https://github.com/LAlex14/LAlex14/blob/output/profile-summary-card-output/default/2-most-commit-language.svg?raw=true" width="49%" alt="Most Commit Language" />
+</p>
+<p>
+  <img src="https://github.com/LAlex14/LAlex14/blob/output/profile-summary-card-output/default/3-stats.svg?raw=true" width="49%" alt="Stats" />
+  <img src="https://github.com/LAlex14/LAlex14/blob/output/profile-summary-card-output/default/4-productive-time.svg?raw=true" width="49%" alt="Productive Time" />
+</p>
+
+---
+
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LAlex14/LAlex14/blob/output/github-contribution-grid-snake-dark.svg" />
