@@ -60,6 +60,6 @@ Currently at [BinarCode](https://binarcode.com) in Cluj-Napoca, Romania — lead
 ### Get in touch
 
 <p>
-  <a href="https://linkedin.com/in/alexandru-lesan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alexandru-leșan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lesanalexandru7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
