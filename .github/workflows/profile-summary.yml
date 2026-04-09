@@ -1,4 +1,4 @@
-name: Generate Profile Summary Cards
+name: Generate Profile Metrics
 
 on:
   schedule:
@@ -12,9 +12,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fez6k/github-profile-summary-cards@v0.6.1
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: profile-metrics.svg
+          user: LAlex14
+          template: classic
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_timezone: Europe/Bucharest
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          committer_branch: output
