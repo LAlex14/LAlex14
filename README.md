@@ -41,14 +41,13 @@ Currently at [BinarCode](https://binarcode.com) in Cluj-Napoca, Romania — lead
 
 ---
 
-### GitHub Stats
+### Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LAlex14&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&hide_title=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAlex14&theme=default&hide_border=true" height="150" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAlex14&layout=compact&theme=default&hide_border=true&langs_count=8" height="150" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LAlex14/LAlex14/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LAlex14/LAlex14/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://github.com/LAlex14/LAlex14/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
