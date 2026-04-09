@@ -41,12 +41,6 @@ Currently at [BinarCode](https://binarcode.com) in Cluj-Napoca, Romania — lead
 
 ---
 
-### GitHub Stats
-
-<img src="https://github.com/LAlex14/LAlex14/blob/output/profile-metrics.svg?raw=true" width="100%" alt="GitHub Metrics" />
-
----
-
 ### Contribution Snake
 
 <picture>
