@@ -3,7 +3,7 @@
 Senior Frontend Developer with 6+ years of experience building production web apps.  
 I work mostly with **Vue.js**, **Nuxt.js**, and **TypeScript**, and I also do backend work with **Laravel** and **AWS**.
 
-Currently at [BinarCode](https://binarcode.com) in Cluj-Napoca, Romania — leading the frontend side on multiple client projects.
+Currently at [BinarCode](https://www.binarcode.com) in Cluj-Napoca, Romania — leading the frontend side on multiple client projects.
 
 ---
 
